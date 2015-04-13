@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Glabels-templates xmlns="http://glabels.org/xmlns/3.0/">
+  <Template brand="DYMO" part="D1 v2" size="Other" width="15mm" height="50mm" description="">
+    <Label-rectangle id="0" width="15mm" height="50mm" round="0mm" x_waste="0mm" y_waste="0mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="1" ny="1" x0="0mm" y0="0mm" dx="15mm" dy="50mm"/>
+    </Label-rectangle>
+  </Template>
+</Glabels-templates>
